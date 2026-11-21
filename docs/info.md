@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Changing the values ​​alters the shape of the output, resulting in different patterns.
 
 ## How to test
 
-Explain how to use your project
+The numbers are available, and the figures will change.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED, SWITCH, RESISTORS
